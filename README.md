@@ -27,6 +27,8 @@ If you don't know how Autohotkey works, go read the documentation [here](https:/
 
 * Wrap selected code in parenthesis by pressing SHIFT+WIN+9
 
+* Close current Tab with WIN+W
+
 
 ### This project helps you bootstrap your own code wrapping functionalities, since it includes a function that generally works with any kind of Text passed to its parameters.
 
