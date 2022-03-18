@@ -46,7 +46,6 @@ If you don't know how Autohotkey works, go read the documentation [here](https:/
 * Close current Tab with WIN+W
 * Format SCL code with CTRL+SHIFT+F
 * Comment/Uncomment SCL line with CTRL+/
-* Comment/Uncomment selected SCL code with multiline comment identifier with CTRL+WIN+M
 
 
 ### This project helps you bootstrap your own code wrapping functionalities, since it includes a function that generally works with any kind of Text passed to its parameters.
