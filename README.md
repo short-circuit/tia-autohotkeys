@@ -9,25 +9,44 @@ If you don't know how Autohotkey works, go read the documentation [here](https:/
 
 ## Following functions are actually included in this project:
 
-* Wrap selected code around a REGION by pressing SHIFT+WIN+R: ![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/region.gif)
+* Wrap selected code around a REGION by pressing SHIFT+WIN+R:
 
-* Wrap selected code around a IF by pressing SHIFT+WIN+I: ![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/if.gif)
+![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/region.gif)
 
-* Wrap selected code around a CASE by pressing SHIFT+WIN+C: ![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/case.gif)
+* Wrap selected code around a IF by pressing SHIFT+WIN+I:
 
-* Wrap selected code around a FOR by pressing SHIFT+WIN+F: ![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/for.gif)
+![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/if.gif)
 
-* Wrap selected code around a WHILE by pressing SHIFT+WIN+W: ![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/while.gif)
+* Wrap selected code around a CASE by pressing SHIFT+WIN+C:
 
-* Wrap selected code around a REPEAT by pressing SHIFT+WIN+Q: ![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/repeat.gif)
+![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/case.gif)
 
-* Comment and uncomment selected code by pressing SHIFT+WIN+M: ![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/comment.gif)
+* Wrap selected code around a FOR by pressing SHIFT+WIN+F: 
 
-* Invert selected assignment row by pressing SHIFT+WIN+-: ![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/invert.gif)
+![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/for.gif)
+
+* Wrap selected code around a WHILE by pressing SHIFT+WIN+W: 
+
+![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/while.gif)
+
+* Wrap selected code around a REPEAT by pressing SHIFT+WIN+Q: 
+
+![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/repeat.gif)
+
+* Comment and uncomment selected code by pressing SHIFT+WIN+M:
+
+![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/comment.gif)
+
+* Invert selected assignment row by pressing SHIFT+WIN+-: 
+
+![](https://github.com/short-circuit/tia-autohotkeys/blob/master/gif/invert.gif)
 
 * Wrap selected code in parenthesis by pressing SHIFT+WIN+9
 
 * Close current Tab with WIN+W
+* Format SCL code with CTRL+SHIFT+F
+* Comment/Uncomment SCL line with CTRL+/
+* Comment/Uncomment selected SCL code with multiline comment identifier with CTRL+WIN+M
 
 
 ### This project helps you bootstrap your own code wrapping functionalities, since it includes a function that generally works with any kind of Text passed to its parameters.
