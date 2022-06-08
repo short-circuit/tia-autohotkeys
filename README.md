@@ -43,7 +43,7 @@ If you don't know how Autohotkey works, go read the documentation [here](https:/
 
 * Wrap selected code in parenthesis by pressing SHIFT+WIN+9
 
-* Close current Tab with WIN+W
+* Close current Tab with CTRL+W
 * Format SCL code with CTRL+SHIFT+F
 * Comment/Uncomment SCL line with CTRL+/
 
